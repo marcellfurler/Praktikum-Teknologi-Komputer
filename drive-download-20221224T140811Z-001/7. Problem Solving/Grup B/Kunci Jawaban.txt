@@ -1,0 +1,48 @@
+1. 
+a = 1001
+b = 3000
+n = 2000
+(a+b) x n/2
+(1001+3000) x 1000 = 4.001.000
+
+2. 
+A.Down
+A. Right
+A.Down
+A.Right
+A.Down
+A.Left
+A.Up
+A.Left
+A.Left
+A.Down
+A.Right
+A.Down
+A.Right
+A.Down
+A.Left
+A.Up
+A.Left
+A.Down
+A.Right
+A.Down
+
+
+3.
+Clue posisi awal: 
+6 ada di atas
+1 ada di bawah
+2,3,4,5 ada di samping
+
+Kotak 1 = 5
+Kotak 2 = 1
+Kotak 3 = 2
+Kotak 4 = 3
+Kotak 5 = 5
+Kotak 6 = 1
+Kotak 7 = 4
+
+
+
+
+

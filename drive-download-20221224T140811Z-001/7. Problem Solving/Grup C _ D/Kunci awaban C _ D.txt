@@ -1,0 +1,52 @@
+a = 1123
+b = 2222
+n = 1100
+
+(a+b) x n/2
+(1123+2222) x 1100/2 = 1,839,750
+
+Jawaban 1
+Nomor(7).Down
+Nomor(8).Right
+Nomor(6).Up
+Nomor(7).Left
+Nomor(8).Down
+Nomor(6).Right
+Nomor(5).Right
+Nomor(4).Up
+Nomor(7).Left
+Nomor(8).Left
+
+Jawaban 2
+Nomor(6).Right
+Nomor(8).Down
+Nomor(7).Left
+Nomor(6).Up
+Nomor(8).Right
+Nomor(7).Down
+Nomor(5).Right
+Nomor(4).Up
+Nomor(7).Left
+Nomor(8).Left
+
+jawabannya bakalan bervariasi, benarkan selama memang benar!
+
+########################################
+Program menentukan nilai bilangan
+
+Deklarasikan 
+var bilangan : integer
+
+tentukan panjang bilangan
+
+if panjang Bilangan == 1 
+	mengeprint "satuan"
+elif panjang Bilangan == 2
+	mengeprint "puluhan"
+elif panjang Bilangan == 3
+	mengeprint "ratusan"
+elif panjang Bilangan == 4
+	mengeprint "ribuan"
+else 
+	mengeprint "diluar jangkauan"
+########################################

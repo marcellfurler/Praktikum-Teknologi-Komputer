@@ -1,0 +1,38 @@
+1.
+a = 3333
+b = 5332
+n = 2000
+(a+b) x n/2
+(3333+5332) x 1000 = 8.665.000
+
+sc python (interpreter mode) :
+>>> import math
+>>> list=[]
+>>> for i in range(3333,5333,1):
+...     list.append(i)
+...
+>>> math.fsum(list)
+8665000.0
+
+2. 
+Clue : Lubang berada tepat ditengah, maka air yang mengalir dikurangi setengah kapasitas gelas
+Dari gelas A mengalir sebanyak 1500-500=1000L ke gelas B
+Dari gelas B mengalir sebanyak 1000-325= 675 ke gelas C
+Dari gelas C mengalir sebanyak 675-275= 400 L ke gelas D
+Dari gelas D mengalir sebanyak 400-200= 200 L ke gelas E
+Karena Gelas E hanya dapat menampung 150L dan dialirkan 200L maka Air yang tumpah adalah 50L
+
+3.
+X = Harga Pensil
+Y = Harga Kotak Pensil
+
+X+Y = 1.10
+
+Y = X + 1
+Karena Y harganya lebih besar 1 dollar dari X.
+
+X + (X + 1)  = 1.10
+2X + 1 = 1.10
+2X = 0.10
+X = 0.05
+Jawabanya adalah 5 Cent atau 0.05 dollar
